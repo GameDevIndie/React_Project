@@ -1,0 +1,8 @@
+.card {
+  position:fixed;
+  top: 30%;
+  left: 40%;
+  background: rgb(92, 91, 91);
+  box-shadow: 0 2px 8px rgb(0, 0, 0, 0.26);
+  border-radius: 12px;
+}
