@@ -9,7 +9,6 @@ const App = () => {
   return (
     <Router>
       <Header />
-      <CourseList />
       <div>
         <Switch>
           <Route exact path='/'>
