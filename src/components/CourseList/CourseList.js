@@ -14,6 +14,11 @@ const CourseList = () => {
       title: 'Course-02',
       img: './Images/01.jpg',
     },
+    {
+      id: 3,
+      title: 'Course-03',
+      img: './Images/01.jpg',
+    },
   ];
 
   return (
